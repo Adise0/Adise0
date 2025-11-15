@@ -8,7 +8,7 @@ I'm the founder of [Model Studio](https://modelstudioo.es). A software developer
 ![Model studio logo](./model-100x100.png)
 
 ### Portfolio
-Check oout my [portfolio](pauibanez.me).
+Check oout my [portfolio](https://pauibanez.me).
 
  ### Current projects 🔭 
  I’m currently working on multiple projects:
