@@ -1,8 +1,11 @@
 ## Hello! I'm Adise0 👋
 
 
-### Brand
-I have my own brand! [Model Studio](https://modelstudioo.es).
+### Model Studio
+I'm the founder of [Model Studio](https://modelstudioo.es). A software developer studio of software solutions, web apps and games! 
+<br/> 
+
+![Model studio logo](./model-100x100.png)
 
 ### Portfolio
 Check oout my [portfolio](pauibanez.me).
